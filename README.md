@@ -9,5 +9,6 @@ This portfolio showcases my projects, skills, and learning journey in technology
 
 
 📫 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/imanuel-hartanto-3ba6a1314))
-[![Instagram]([https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/yourinstagram](https://www.instagram.com/eyemnuel/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/imanuel-hartanto-3ba6a1314)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/eyemnuel/)
