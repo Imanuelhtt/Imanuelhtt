@@ -1,6 +1,6 @@
 # Hi, I'm Imanuel Hartanto! 👋
 
-I'm an Information Systems student at <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Binus_University_logo.svg" alt="Binus University" width="100" style="vertical-align:middle;"/> **Binus University**  
+I'm an Information Systems student at  **Binus University**  
 Passionate about **Cloud Computing**, **UI/UX Design**, **Web Design**, and **Web Development**.  
 
 This portfolio showcases my projects, skills, and learning journey in technology. 🚀
