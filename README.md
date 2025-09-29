@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Imanuel Hartanto! 👋
 
-<!--
-**Imanuelhtt/Imanuelhtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student at *Binus University*.  
+Passionate about Cloud Computing,  Web-based application development,and Web Design.  
 
-Here are some ideas to get you started:
+This portfolio showcases my projects, skills, and learning journey in technology. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Software Development Projects:
+
+
+📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourlinkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/yourinstagram)
