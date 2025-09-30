@@ -7,7 +7,8 @@ This portfolio showcases my projects, skills, and learning journey in technology
 
 
 ## 🔧 Software Development Projects:
-
+- <b>Application Development</b>
+  - [Go Go Query][(https://github.com/Jadakii/Project-C-Groovy)](https://github.com/Imanuelhtt/Go-Go-Query)
 
 📫 Connect with me:
 
